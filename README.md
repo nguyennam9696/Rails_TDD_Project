@@ -1,2 +1,3 @@
-# Rails_TDD_Project
-:package: Test Driven Development practice with Ruby on Rails
+# Ruby on Rails Test Driven Development Practice
+
+by: [*Nam H. Nguyen*](http://www.nomnomnam.me/)
